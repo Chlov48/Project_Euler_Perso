@@ -8,7 +8,7 @@ my personal attemps at solving project Euler problemes
 ❌2  
 ✅3 - 26/10/23  
 ✅4 - 26/10/23  
-❌5  
+✅5 - 26/10/23  
 ❌6  
 ❌7  
 ❌8  
