@@ -12,7 +12,7 @@ my personal attemps at solving project Euler problemes
 ✅6 - 26/10/23  
 ✅7 - 26/10/23  
 ✅8 - 31/10/23  
-❌9  
+✅9 - 01/11/23  
 ❌10  
 ❌11  
 ❌12  
