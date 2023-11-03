@@ -26,6 +26,6 @@ my personal attemps at solving project Euler problemes
 ❌20  *
 
 ---
-##notes :
-**probleme 2** could be optimized using a shieve search
-**probleme 14** could be optimized by caching unique series
+## notes :  
+**probleme 2** could be optimized using a shieve search  
+**probleme 14** could be optimized by caching unique series  
