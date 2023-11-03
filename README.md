@@ -17,10 +17,14 @@ my personal attemps at solving project Euler problemes
 ❌11  
 ✅12 - 03/11/23  
 ❌13  
-❌14  
+✅14 - 03/11/23  
 ❌15  
 ❌16  
 ❌17  
 ❌18  
 ✅19 - 20/10/23  
-❌20  
+❌20  *
+
+##notes :
+**probleme 2** could be optimized using a shieve search
+**probleme 14** could be optimized by caching unique series
