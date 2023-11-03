@@ -1,7 +1,7 @@
 # Project_Euler_Perso
 my personal attemps at solving project Euler problemes
 ---
-##total done : 12
+##total done : 13
 ---
 
 ✅1 - 25/10/23  
@@ -25,6 +25,7 @@ my personal attemps at solving project Euler problemes
 ✅19 - 20/10/23  
 ❌20  *
 
+---
 ##notes :
 **probleme 2** could be optimized using a shieve search
 **probleme 14** could be optimized by caching unique series
