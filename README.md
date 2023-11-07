@@ -16,7 +16,7 @@ my personal attemps at solving project Euler problemes
 ✅10 - 02/11/23  
 ❌11  
 ✅12 - 03/11/23  
-❌13  
+✅13 - 07/11/23  
 ✅14 - 03/11/23  
 ✅15 - 03/11/23  
 ❌16  
@@ -28,4 +28,5 @@ my personal attemps at solving project Euler problemes
 ---
 ## notes :  
 **probleme 2** could be optimized using a shieve search  
+**probleme 13** is by fare the worst piece of code i have ever written. it is hideous. shame on me  
 **probleme 14** could be optimized by caching unique series  
