@@ -14,7 +14,7 @@ my personal attemps at solving project Euler problemes
 ✅8 - 31/10/23  
 ✅9 - 01/11/23  
 ✅10 - 02/11/23  
-❌11  
+✅11 - 09/11/23  
 ✅12 - 03/11/23  
 ✅13 - 07/11/23  
 ✅14 - 03/11/23  
