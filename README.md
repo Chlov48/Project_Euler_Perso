@@ -1,7 +1,7 @@
 # Project_Euler_Perso
 my personal attemps at solving project Euler problemes
 ---
-##total done : 15
+##total done : 17
 ---
 
 ✅1 - 25/10/23  
@@ -20,7 +20,7 @@ my personal attemps at solving project Euler problemes
 ✅14 - 03/11/23  
 ✅15 - 03/11/23  
 ❌16  
-❌17  
+✅17 - 12/11/23  
 ❌18  
 ✅19 - 20/10/23  
 ❌20  *
@@ -30,3 +30,4 @@ my personal attemps at solving project Euler problemes
 **probleme 2** could be optimized using a shieve search  
 **probleme 13** is by fare the worst piece of code i have ever written. it is hideous. shame on me  
 **probleme 14** could be optimized by caching unique series  
+**probleme 17** could be more compatc (maybe if written recurlsively
