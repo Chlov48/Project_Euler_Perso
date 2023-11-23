@@ -24,7 +24,16 @@ my personal attemps at solving project Euler problemes
 ❌18  
 ✅19 - 20/10/23  
 ✅20 - 23/11/23  
-
+❌21  
+❌22  
+❌23  
+❌24  
+❌25  
+❌26  
+❌27  
+❌28  
+❌29  
+❌30   
 ---
 ## notes :  
 **probleme 2** could be optimized using a shieve search  
