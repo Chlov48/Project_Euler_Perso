@@ -3,7 +3,7 @@ using namespace std;
 
 int sumOfMultiple(int lim){
     int x;
-    for (int i=0, i<= lim, i++){
+    for (int i=0; i<= lim; i++){
         if ((i%5==0)||(i%3==0)){
             x+=i;
         }
