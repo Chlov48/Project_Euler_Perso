@@ -1,7 +1,7 @@
 # Project_Euler_Perso
 my personal attemps at solving project Euler problemes
 ---
-##total done : 21
+##total done : 22
 ---
 
 ✅1 - 25/10/23  
@@ -31,7 +31,7 @@ my personal attemps at solving project Euler problemes
 ❌25  
 ❌26  
 ❌27  
-❌28  
+✅28 - 29/11/23  
 ❌29  
 ❌30   
 ---
